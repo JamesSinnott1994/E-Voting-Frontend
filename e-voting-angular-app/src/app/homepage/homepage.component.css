@@ -1,0 +1,18 @@
+.center-content {
+    text-align: center;
+}
+
+button {
+    margin: 10px; /* Space between buttons */
+    padding: 10px 20px; /* Add padding for a better button appearance */
+    font-size: 16px; /* Adjust font size */
+    cursor: pointer;
+    border: none;
+    border-radius: 5px; /* Rounded corners */
+    background-color: #007bff; /* Button background color */
+    color: white; /* Button text color */
+}
+
+button:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+}
