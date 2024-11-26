@@ -1,5 +1,6 @@
-.center-content {
+.home-page-content{
     text-align: center;
+    color: white;
 }
 
 button {
@@ -7,9 +8,9 @@ button {
     padding: 10px 20px; /* Add padding for a better button appearance */
     font-size: 16px; /* Adjust font size */
     cursor: pointer;
-    border: none;
+    border: 2px solid orange;
     border-radius: 5px; /* Rounded corners */
-    background-color: #007bff; /* Button background color */
+    background-color: #000000; /* Button background color */
     color: white; /* Button text color */
 }
 
