@@ -22,9 +22,27 @@
     font-style: italic;
 }
 
+.segment {
+    font-size: 1.25em;
+    text-align: left;
+    margin-top: 3em;
+}
+
 .history-page-content h1 {
     margin-top: 1em;
     font-size: 2em;
+}
+
+.image-container {
+    width: 60%;
+    height: 350px;
+    margin: 2em auto;
+    border: 1px solid black;
+}
+
+.image-container img {
+    width: 100%;
+    height: 100%;
 }
 
 button {
