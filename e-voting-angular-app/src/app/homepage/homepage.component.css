@@ -1,6 +1,13 @@
-.home-page-content{
+.home-page-section{
+    display: flex;
+    justify-content: center; /* Horizontally center */
+    align-items: center; /* Vertically center */
+    font-family: Arial, sans-serif; /* Optional: Apply a font */
     text-align: center;
     color: white;
+    width: 80%;
+    height: 100%;
+    margin: 0 auto;
 }
 
 button {
