@@ -22,9 +22,13 @@
             "tsConfig": "tsconfig.app.json",
             "assets": [
               {
+<<<<<<< HEAD
                 "glob": "**/*",
                 "input": "src/assets/",
                 "output": "/assets/"
+=======
+                "src/assets"
+>>>>>>> ad10d86326edf8c64efaf4ca7a28f81227f2601a
               }
             ],
             "styles": [
@@ -82,8 +86,13 @@
             "assets": [
               {
                 "glob": "**/*",
+<<<<<<< HEAD
                 "input": "src/assets/",
                 "output": "/assets/"
+=======
+                "input": "src/assets",
+                "output": "/assets"
+>>>>>>> ad10d86326edf8c64efaf4ca7a28f81227f2601a
               }
             ],
             "styles": [
