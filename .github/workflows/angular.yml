@@ -49,7 +49,7 @@ jobs:
 
       - name: Build Docker image
         run: |
-          docker build -t e-voting-angular-app .
+          docker build -t e-voting-angular-app ./e-voting-angular-app
 
       - name: Push Docker image to Docker Hub
         run: |
